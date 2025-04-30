@@ -83,18 +83,6 @@ $$
 This ensures forward invariance of the **safe set** even when control acts indirectly on position.
  
 ---
-<!--
-##  Dependencies
 
-- MATLAB (tested on R2021b+)
-- Optimization Toolbox
-
----
-
-## 🚀 Run the Simulation
-
-```matlab
->> mpc_quadcopter
-```
-
-Simulation results and trajectory plots will be generated automatically. -->
+## Running the Simulation
+Script to run:  `src/taskBarrier.m`
